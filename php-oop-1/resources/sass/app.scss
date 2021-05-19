@@ -1,0 +1,23 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+body {
+
+     header {
+          background-color: red;
+          height: 10vh;
+     }
+
+     main {
+          background-color: blue;
+          height: 80vh;
+     }
+
+     footer {
+          background-color: green;
+          height: 10vh;
+     }
+}
